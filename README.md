@@ -9,17 +9,9 @@
 
 | Stats | Streak |
 |-------|--------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishhh67&show_icons=true&theme=github_dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
+| ![GitHub Stats](https://github.com/bishhh67?tab=achievements) | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
 
 | Activity Graph |
 |----------------|
 | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishhh67&theme=react-dark) |
 
-
-| 🏅 GitHub Trophies | ⏱ Contribution Streak |
-|-------------------|---------------------|
-| ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishhh67&theme=radical&no-bg=true&margin-w=10) | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=radical) |
-
-| Top Languages |
-|---------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishhh67&layout=compact&theme=radical) |
