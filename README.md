@@ -1,9 +1,15 @@
 ## Hi there 👋
+# Hi 👋 I'm Bishal
 
-# Hi 👋, I'm Bishhh67777
-
-🎓 Computer Science Student  
-💻 Learning React and Python  
 🚀 Interested in Web Development  
-📍 Kathmandu, Nepal
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishhh67&show_icons=true&theme=radical)
+📍 Kathmandu, Nepal  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishhh67&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishhh67&theme=react-dark)
