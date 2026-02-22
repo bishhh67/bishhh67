@@ -5,11 +5,12 @@
 📍 Kathmandu, Nepal  
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishhh67&show_icons=true&theme=tokyonight)
+| Stats | Streak |
+|-------|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishhh67&show_icons=true&theme=github_dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishhh67&theme=react-dark)
+| Activity Graph |
+|----------------|
+| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishhh67&theme=react-dark) |
