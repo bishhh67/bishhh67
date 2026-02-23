@@ -7,9 +7,7 @@
 ---
 ## 📊 GitHub Stats
 
-| Stats | Streak |
-|-------|--------|
-|  | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
+ | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
 
 | Activity Graph |
 |----------------|
