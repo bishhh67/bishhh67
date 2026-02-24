@@ -2,7 +2,9 @@
 # Hi 👋 I'm Bishal
 
 🚀 Interested in Web Development  
-📍 Kathmandu, Nepal  
+📍 nepallllll
+
+
 
 ---
 ## 📊 GitHub Stats
