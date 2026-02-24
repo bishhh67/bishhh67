@@ -1,8 +1,8 @@
 ## Hi there 👋
-# Hi 👋 I'm Bishal
+# Hi 👋 I'm Bishleshan 
 
-🚀 Interested in Web Development  
-📍 nepallllll
+🚀 Interested in Web Development, mobile dev and AI /ML  
+
 
 
 
