@@ -9,7 +9,7 @@
 
  | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
 
-| Activity Graph |
+| Activity Graph- visualize |
 |----------------|
 | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bishhh67&theme=react-dark) |
 
