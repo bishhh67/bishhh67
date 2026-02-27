@@ -2,7 +2,6 @@
 # Hi 👋 I'm Bishleshan 
 
 🚀 Interested in Web Development, mobile dev and AI /ML  
-!!!
 
 ## 📊 GitHub Stats
 
