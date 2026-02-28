@@ -3,7 +3,7 @@
 
 🚀 Interested in Web Development, mobile dev and AI /ML  
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
  | ![GitHub Streak](https://streak-stats.demolab.com/?user=bishhh67&theme=github_dark) |
 
